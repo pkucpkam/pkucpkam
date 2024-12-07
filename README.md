@@ -88,16 +88,14 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pkucpkam&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" /></div>  
 
-## Recent Blog Posts    
+## Number of fans    
 <br/>  
-<div align="center"><img src="" /></div>  
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pkucpkam&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
 
 <div align="center"></div>
