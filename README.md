@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbng1MXdocTQzcjY0MGZwNjltemdqMGVlbXp1MHh3Z2dkdDR4djNxbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Phuc Pham</h1>
 <h3 align="center">I am a software engineering student.</h3>
