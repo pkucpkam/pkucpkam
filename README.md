@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, NodeJS, ReactJS, ...**
 
-- 📫 How to reach me **phucpham.1803@gmail.com**
+- 📫 How to reach me **pkucpkam.dev@gmail.com**
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/pkucpkam)  
 
