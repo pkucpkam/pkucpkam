@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pkucpkam.dev@gmail.com**
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/pkucpkam)
+- 🔭 This is my  [Personal Portfolior](https://github.com/pkucpkam)
 
 - 🌎 Find me on [Facebook](https://www.facebook.com/phucpham1803)
 
