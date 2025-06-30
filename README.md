@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pkucpkam.dev@gmail.com**
 
-- 🔭 This is my  [Personal Portfolior](https://github.com/pkucpkam)
+- 🔭 This is my  [Personal Portfolior](https://pkucpkam.vercel.app/)
 
 - 🌎 Find me on [Facebook](https://www.facebook.com/phucpham1803)
 
@@ -30,7 +30,7 @@
 - React, Bootstrap, CSS3, HTML5, JavaScript, Material UI, Tailwind CSS, Angular 
 
 ### Backend Development  
-- Node.js, PHP, Python, Java, C#, Spring, Laravel  
+- Node.js, PHP, Python, Java, C#, Spring 
 
 ### Mobile Development  
 - Flutter, Android  
