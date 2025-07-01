@@ -24,22 +24,25 @@
 ## My Skill Set  
 
 ### Programming Languages  
--  C, JavaScript, PHP, Python, Java, C#
+-  C, JavaScript, PHP, Python, Java, C#, ...
 
 ### Frontend Development  
-- React, Bootstrap, CSS3, HTML5, JavaScript, Material UI, Tailwind CSS, Angular 
+- React, Bootstrap, CSS3, HTML5, JavaScript, Material UI, Tailwind CSS, ... 
 
 ### Backend Development  
-- Node.js, PHP, Python, Java, C#, Spring 
+- Node.js, PHP, Python, Java, C#, Spring, ...
 
 ### Mobile Development  
-- Flutter, Android  
+- Flutter, Android Native (Java, XML)  
 
 ### Database  
-- MongoDB, MySQL, Firebase, PostgreSQL  
+- MongoDB, MySQL, Firebase, PostgreSQL , ...
 
-### DevOps & Tools  
-- Git, AWS, Docker  
+### Cloud Services ﻿﻿& DevOps  
+- Google Firebase, AWS, Vercel, CI/CD, ...
+
+### Tools & Version Control
+- Git (GitHub), Docker, Postman, Swagger, ....
 
 ### UI/UX & Design Tools  
 - Illustrator, Chart.js, Figma, Photoshop, Premiere
