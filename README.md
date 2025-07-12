@@ -14,11 +14,7 @@
 
 - 🌎 Find me on [Facebook](https://www.facebook.com/phucpham1803)
 
-- 🌎 Find me on [Instagram](https://www.instagram.com/pkucpka.m/)
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+- 🌎 Find me on [Instagram](https://www.instagram.com/pkucpka.m/)  
      
 
 ## My Skill Set  
