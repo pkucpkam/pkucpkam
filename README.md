@@ -12,6 +12,8 @@
 
 - 🔭 This is my  [Personal Portfolior](https://pkucpkam.vercel.app/)
 
+- 🌎 Find me on [Linkedin](https://www.linkedin.com/in/pkucpkam/)
+
 - 🌎 Find me on [Facebook](https://www.facebook.com/phucpham1803)
 
 - 🌎 Find me on [Instagram](https://www.instagram.com/pkucpka.m/)  
