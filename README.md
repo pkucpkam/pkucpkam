@@ -75,15 +75,3 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Premiere](https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-
-## Github Stats  
-<br/>  
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pkucpkam&theme=tokyonight&hide_border=false" height="150" alt="graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkucpkam&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph"  />
-</div>
-
